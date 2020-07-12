@@ -1,5 +1,5 @@
 # 3dtransform
-效果：https://xingxinz.github.io/3dtransform/  
+效果：https://xingxinz.github.io/3dtransform/book.html  
 
 # 书本翻页效果总结  
 1. transform 来实现2D/3D变换  
