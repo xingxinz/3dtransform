@@ -18,7 +18,8 @@
 也可按第二种理解写成  
 .left{transform: rotateY(-90deg) translateZ(50px);}  
 
-关于坐标系  
-
-
+另外关于坐标系可参考这个图：  
+http://acgtofe.com/assets/used-images/posts/201309/coordinate_space.png 
+![Image text](http://acgtofe.com/assets/used-images/posts/201309/coordinate_space.png)
+这个图摘自一篇比较好的文章：http://acgtofe.com/posts/2013/09/css-3d-transform
 
