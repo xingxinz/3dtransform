@@ -48,7 +48,7 @@
 }
 
 .case-1 .wrapper .page:nth-of-type(2) {
-  animation: roll 3s ease 4.5s 2 alternate;
+  animation: roll 2s ease 5s 2 alternate;
 }
 
 .case-1 .wrapper .page:nth-of-type(3) {

@@ -7,7 +7,8 @@
     align-items: center;
     perspective: 1200px;
     flex-direction: column;
-
+    // 这里没加 preserve-3d 原因是 background:black写在了这层；
+    // 加了的话，由于 保留了子元素的3d空间 相当于wrapper上半部分被转到了背面 就被黑色层完全遮挡了
     .text {
         margin-bottom: 90px;
         text-align: center;
@@ -48,7 +49,7 @@
         }
 
         .page:nth-of-type(2) {
-            animation: roll 3s ease 4.5s 2 alternate;
+            animation: roll 2s ease 5s 2 alternate;
         }
 
         .page:nth-of-type(3) {
