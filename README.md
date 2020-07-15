@@ -6,6 +6,12 @@
 种类：平移、放缩、旋转、倾斜、透视  
 细节： 透视效果(perspective)、变换基准（transform-origin）  
 2. animation 来实现周期逆放动画  
+细节：延迟时间 + 旋转时间 === 定值  
+
+难点：
+3D空间感 | 动画流程思路清晰  
+transform\animation 相关属性的应用  
+实现的细节  
 
 # 正方体/商品展示效果总结  
 关于transform顺序的个人理解  
