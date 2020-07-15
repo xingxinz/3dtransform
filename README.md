@@ -2,6 +2,7 @@
 效果：https://xingxinz.github.io/3dtransform/book.html  
 
 # 书本翻页效果总结  
+关键点：  
 1. transform 来实现2D/3D变换  
 种类：平移、放缩、旋转、倾斜、透视  
 细节： 透视效果(perspective)、变换基准（transform-origin）  
